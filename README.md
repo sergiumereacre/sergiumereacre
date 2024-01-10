@@ -13,7 +13,7 @@ Computers have always been my passion, driving me to explore new opportunities a
 
 ### Github Stats
 
-<a href="http://www.github.com/sergiumereacre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiumereacre&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/sergiumereacre"><img src="https://github-readme-streak-stats.herokuapp.com?user=sergiumereacre&theme=dark&hide_border=true&border_radius=50&card_width=500" alt="GitHub Streak" /></a>
 
 ### Skills
 
